@@ -39,3 +39,12 @@ git branch {branch name}
 
 git checkout {branch name}
 
+# get the code from other branch to main
+
+git merge {branch name = testb}
+
+# delete the child branch 
+
+git
+
+
